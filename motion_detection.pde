@@ -14,7 +14,7 @@ PImage bgImage;
 boolean bgImageisAvailable = false;
 //閾値
 int threshold_BGSub = 80;
-int threshold_ChangedPixels = 35000;
+int threshold_ChangedPixels = 303000;
 
 //画像ナンバー
 int photonum = 0;
